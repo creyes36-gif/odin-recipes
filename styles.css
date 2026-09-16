@@ -1,0 +1,13 @@
+h1 {
+    background-color: hsl(196deg 31% 85%); 
+    width: 1200px;   
+    border-radius: 30px;
+    padding: 30px;
+}   
+li {
+
+}
+
+.page-text  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
