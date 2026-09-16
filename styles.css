@@ -3,11 +3,13 @@ h1 {
     width: 1200px;   
     border-radius: 30px;
     padding: 30px;
+    border: 30px solid olive;
+    text-align: center;
 }   
 li {
 
 }
 
 .page-text  {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: inherit, 'Times New Roman', Times, serif;
 }
