@@ -1,15 +1,95 @@
+body {
+    background-color:  hsl(354deg 44% 89%);
+}
+
 h1 {
-    background-color: hsl(196deg 31% 85%); 
+    background-color: hsl(210deg 81% 87%);
     width: 1200px;   
     border-radius: 30px;
     padding: 30px;
-    border: 30px solid olive;
     text-align: center;
+    font-weight: 3000;
 }   
 li {
 
 }
 
 .page-text  {
-    font-family: inherit, 'Times New Roman', Times, serif;
+    font-family: "satoshi", sans-serif;
+}
+
+/* Hero image main page */
+.main-img {
+    width: auto;
+    height: 1000px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 15px gray;
+}
+    
+
+
+/* Chilli dog image main page */
+.small-img1 {
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+    margin-left: 80px;
+    margin-top: 70px;
+    box-shadow: 8px 8px 15px gray;
+}
+
+/* pizza image maing page */
+.small-img2 {
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+    border-radius: 30px;
+    box-shadow: 8px 8px 15px gray;
+
+}   
+
+/* Barbacoa image main page */
+.small-img3 {
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+    margin-left: 20px;
+    box-shadow: 8px 8px 15px gray;
+}
+
+/* Picture of me for about me */
+.me-picture {
+
+    width: 720px;
+    height: 1080px;
+    border-radius: 30px;
+    margin-left: 350px;
+    box-shadow: 8px 8px 15px gray;
+}
+
+/* Picture for in link chilli dogs */
+.link-img1 {
+    width: 750px;
+    height: 500px;
+    border-radius: 30px;
+    margin-left: 350px;
+    box-shadow: 8px 8px 15px gray;
+}
+
+/* Picture for in link Pizza */
+.link-img2 {
+    width: 750px;
+    height: 500px;
+    border-radius: 30px;
+    margin-left: 350px;
+    box-shadow: 8px 8px 15px gray;
+}
+
+/* Picture for in link Barbacoa */
+.link-img3 {
+    width: 750px;
+    height: 500px;
+    border-radius: 30px;
+    margin-left: 350px;
+    box-shadow: 8px 8px 15px gray;
 }
